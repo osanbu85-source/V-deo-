@@ -1,3 +1,4 @@
 streamlit==1.32.0
 edge-tts==6.1.9
 pillow==10.2.0
+
